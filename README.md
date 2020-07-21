@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hola! :wave:
+
+Mi nombre es Federico Benitez y soy un estudiante de la carrera Tecnicatura Universitaria en Programacion en la UTN en la ciudad de Resistencia Chaco.
+
 
 <!--
 **Federico-Benitez/Federico-Benitez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
