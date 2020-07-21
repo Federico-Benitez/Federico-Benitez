@@ -1,6 +1,6 @@
 ## Hola! :wave:
 
-Mi nombre es Federico Benitez y soy un estudiante de la carrera Tecnicatura Universitaria en Programacion en la UTN en la ciudad de Resistencia Chaco.
+Mi nombre es Federico Benitez y soy un estudiante de la carrera Tecnicatura Universitaria en Programacion en la ciudad de Resistencia Chaco.
 
 
 <!--
