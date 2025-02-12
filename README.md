@@ -1,19 +1,23 @@
-## Hola! :wave:
+# Hi there, I'm Federico Benitez! 👋
 
-Mi nombre es Federico Benitez y soy un estudiante de la carrera Tecnicatura Universitaria en Programacion en la ciudad de Resistencia Chaco.
+Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in web development. I love exploring new technologies and finding innovative solutions to challenging problems.
 
+## 🌱 Learning and Growth
+- Currently learning **Python**.
+- Exploring **machine learning** and **data science** concepts.
 
-<!--
-**Federico-Benitez/Federico-Benitez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💬 Ask Me About
+- Web development (React, Typescript,  Node.js)
+- Mobile development (React Native, Expo)
+- Best practices in software development
 
-Here are some ideas to get you started:
+## 📫 How to Reach Me
+- **LinkedIn**: [Federico Benitez](https://www.linkedin.com/in/federico-benitez-51428119b/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![Federico's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Federico-Benitez&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Federico-Benitez&layout=compact&theme=radical)
+
+Thank you for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate on a project.
